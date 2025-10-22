@@ -24,10 +24,10 @@
         "4.0.7.1000-linux_gpu_cu130_amd64",
         "4.0.7.1000-macos_amd64",
         "4.0.7.1000-macos_arm64",
-        "4.0.7.1000-win64_amd64",
-        "4.0.7.1000-win64_gpu_cu126_amd64",
-        "4.0.7.1000-win64_gpu_cu128_amd64",
-        "4.0.7.1000-win64_gpu_cu130_amd64"
+        "4.0.7.1000-windows_amd64",
+        "4.0.7.1000-windows_gpu_cu126_amd64",
+        "4.0.7.1000-windows_gpu_cu128_amd64",
+        "4.0.7.1000-windows_gpu_cu130_amd64"
     ],
     "includes": {
         "pip": []
